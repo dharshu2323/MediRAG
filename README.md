@@ -35,4 +35,3 @@ This project is a **Medical Diagnosis Support System** that leverages **Retrieva
 **Database:**
 - MongoDB (User & Role management)
 
---
