@@ -35,3 +35,9 @@ This project is a **Medical Diagnosis Support System** that leverages **Retrieva
 **Database:**
 - MongoDB (User & Role management)
 
+  
+
+https://github.com/user-attachments/assets/491592e7-e599-4e9d-81d9-f9fbd928a538
+
+
+
